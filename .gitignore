@@ -1,0 +1,7 @@
+genbanks*
+normalized_by_expected
+individual_fastas*
+*_backup
+*test*
+CG_dinucleotide.R
+all_chinglan.fasta
